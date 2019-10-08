@@ -57,7 +57,7 @@ python标准库中自带json模块，可以序列化和反序列化json，在pyt
     json_str = json.dumps(raw_json)
     print(repr(json_str))
 
-输入为::
+输出为::
 
     '{"key3": [1, "1"], "key2": "1", "key1": 1, "key4": {"key5": 1}}'
     [Finished in 0.2s]
@@ -81,7 +81,7 @@ python标准库中自带json模块，可以序列化和反序列化json，在pyt
     raw_json = json.loads(json_str)
     print(repr(raw_json))
 
-输出结果为::
+输出为::
 
     {u'key3': [1, u'1'], u'key2': u'1', u'key1': 1, u'key4': {u'key5': 1}}
     [Finished in 0.2s]

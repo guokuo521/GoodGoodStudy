@@ -1,7 +1,10 @@
 python基础
 ======================================
 
-推荐学习网站：https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+推荐学习网站：
+
+**廖雪峰**：https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+**慕课网**：https://class.imooc.com/sale/python?mc_marking=2d3a232d64f4438481d06fc0870e6078&mc_channel=pyrmdjt
 
 .. toctree::
    
