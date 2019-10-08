@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-测试学习
+测试相关技能学习
 ======================================
 
 .. toctree::
